@@ -1,2 +1,2 @@
-cd C:\vroomcoin-master
-start "" vroomcoin-qt.exe -datadir=".\data"
+cd C:\perkcoin-master
+start "" perkcoin-qt.exe -datadir=".\data"
